@@ -1,0 +1,148 @@
+
+.bhai{
+
+    position: fixed;
+    
+    }
+    
+    .bhai2{
+        position: fixed;
+        margin-top: 350px;
+        margin-left: 518px;
+    }
+    .bhai3{
+        position: fixed;
+        margin-top: 550px;
+        
+    }
+    
+    .bhai4{
+        position: fixed;
+        margin-top: 500px;
+        margin-left: 1000px;
+    }
+body {
+   
+    background-color: #111;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(khoon.png);
+    max-width: 800px;
+    padding: 0px;
+    position: relative;
+    align-content:  center;
+    margin-top: 0px;
+
+}
+
+header {
+    text-align: center;
+    padding: 0px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h1, h2, h3 {
+    font-family: 'Creepster', cursive;
+}
+
+.project {
+    background-color: #333;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label, input, textarea, button {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input, textarea, button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #ff4d4d;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #cc0000;
+}
+body {
+   
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #ff4d4d;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+
+.a1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.try{
+    background-image: url(hand.png);
+}
+
+
